@@ -1,7 +1,6 @@
 Introduction
 
-You have to implement the following Web automated checks over our DEMO ONLINE
-SHOP: https://www.demoblaze.com/index.html
+DEMO ONLINE SHOP: https://www.demoblaze.com/index.html
 
 • Customer navigation through product categories: Phones, Laptops and Monitors
 
