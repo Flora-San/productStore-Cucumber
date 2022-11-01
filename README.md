@@ -36,5 +36,5 @@ At first, you need install the following things:
 
 [Java](https://www.oracle.com/java/technologies/downloads/#java11)
 
-I'm using Maven dependencies & Cucumber for test cases as well
+I'm using Maven dependencies & Gherkin with Cucumber for steps definition and test cases as well
 
