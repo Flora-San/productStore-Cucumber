@@ -28,13 +28,13 @@ DEMO ONLINE SHOP: https://www.demoblaze.com/index.html
 
 At first, you need install the following things:
 
-[Intellij IDE](https://www.jetbrains.com/es-es/idea/download/#section=linux)
+[Intellij IDEA](https://www.jetbrains.com/es-es/idea/download/#section=linux)
 
 [Selenium web driver](https://www.selenium.dev/downloads/)
 
-[chrome driver](https://chromedriver.chromium.org/)
+[Chrome driver](https://chromedriver.chromium.org/)
 
-[Java](https://www.oracle.com/java/technologies/downloads/#java11)
+[Java11](https://www.oracle.com/java/technologies/downloads/#java11)
 
 I'm using [Maven](https://mvnrepository.com/) dependencies & Gherkin with [Cucumber](https://cucumber.io/docs/cucumber/) for steps definition and test cases as well
 
