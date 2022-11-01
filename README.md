@@ -34,7 +34,7 @@ At first, you need install the following things:
 
 [Chrome driver](https://chromedriver.chromium.org/)
 
-[Java11](https://www.oracle.com/java/technologies/downloads/#java11)
+[Java](https://www.oracle.com/java/technologies/downloads/#java11)
 
 I'm using [Maven](https://mvnrepository.com/) dependencies & Gherkin with [Cucumber](https://cucumber.io/docs/cucumber/) for steps definition and test cases as well
 
